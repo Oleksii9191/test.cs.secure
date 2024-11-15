@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<NVMBootstrapProfile xsi:noNamespaceSchemaLocation="NVMBootstrapProfile.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<Cloud>
-    <CloudServer>intake.prod.eu.tmc.nvmc.csc.cisco.com</CloudServer>
-    <CloudPort>443</CloudPort>
-</Cloud>
-</NVMBootstrapProfile>
